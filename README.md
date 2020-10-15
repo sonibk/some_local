@@ -8,3 +8,4 @@ so like now:
 * go to the local 
 * use cat to check content 
 * run git pull
+* CHECK CONTENT
